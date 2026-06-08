@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Windows Computer Use"
+  short_description: "Set up Codex Computer Use on Windows."
+  default_prompt: "Help me set up or repair Codex Computer Use on Windows."
